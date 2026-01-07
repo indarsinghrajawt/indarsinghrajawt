@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I’m Indar Singh Rajawat
 
-<!--
-**indarsinghrajawt/indarsinghrajawt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student
+💻 Interested in Data Analytics, ETL Pipelines & Machine Learning
 
-Here are some ideas to get you started:
+🔹 What I Do:
+- Build real-world ETL pipelines using Python
+- Clean, transform & analyze business data
+- Create dashboards using Streamlit & Power BI
+- Train ML models for prediction & insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Tech Stack:
+Python | Pandas | NumPy | Scikit-learn | Streamlit | Power BI | GitHub
+
+🔹 Featured Projects:
+- AI Analytics Dashboard (ETL + ML)
+- Sales Forecasting ML App
+- Data Cleaning & Transformation Pipeline
+
+📫 GitHub: https://github.com/indarsinghrajawt
